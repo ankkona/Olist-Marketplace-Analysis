@@ -40,8 +40,11 @@ flowchart LR
     D --> D3[💡 Key Insights & Recommendations]
 ```
 ## Dashboard
+### Page 1
 ![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page1.png)
+### Page 2
 ![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page2.png)
+### Page 3
 ![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page3.png)
 
 ## Key Insights
