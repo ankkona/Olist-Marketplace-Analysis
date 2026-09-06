@@ -39,6 +39,10 @@ flowchart LR
     D --> D2[🔍 Business Analysis]
     D --> D3[💡 Key Insights & Recommendations]
 ```
+## Dashboard
+![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page1.png)
+![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page2.png)
+![Dashboard Overview](https://github.com/ankkona/Olist-Marketplace-Analysis/blob/main/Dashboard%20Pages/Page3.png)
 
 ## Key Insights
 
