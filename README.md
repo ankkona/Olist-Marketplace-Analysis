@@ -1,6 +1,16 @@
 
 # 🛒 Olist E-commerce Data Analysis
 
+# Problem Statement
+
+## Business Background
+
+Olist is a Brazilian e-commerce platform that acts as a marketplace integrator: small and medium merchants across Brazil sign a single contract with Olist to sell through major marketplaces without negotiating each one individually. When a customer buys a product through an Olist-connected store, the responsible seller is notified to fulfill the order and ships it using Olist’s logistics partners. Once the order is delivered, or once the estimated delivery date has passed, the customer receives a satisfaction survey by email where they can leave a 1 to 5 star review and, optionally, written comments.
+
+## The Business Challenge
+
+Olist’s leadership has approximately two years of order history (September 2016 to October 2018) covering orders, items, payments, products, sellers, customers, reviews, and geolocation data. Review scores, delivery timing, seller performance, and payment behavior all vary considerably across this period, across product categories, and across Brazil’s states, but no single, consolidated analysis has connected these dimensions together. Leadership wants to understand what is actually shaping the customer experience on the platform, and where the clearest opportunities are to improve it as Olist continues to scale to more sellers and more regions of Brazil.
+
 ## Objective
 
 This project analyzes **Olist Brazilian e-commerce data** to identify patterns in sales, revenue, product categories, customer geography, delivery performance, payment behaviour, customer satisfaction, and repeat purchasing.
@@ -79,3 +89,11 @@ flowchart LR
 - Maintain flexible **payment and installment options** to support higher-value purchases.
 
 - Focus on **retaining repeat customers**, as repeat customers generate higher revenue per customer than one-time customers.
+
+## Hackathon Experience
+
+Participating in the **Gradient Learning Data Analysis Hackathon** was a great learning experience. It gave me the opportunity to work with a real-world e-commerce dataset and apply my skills in **Python, data analysis and Power BI**.
+
+Through this project, I learned how to turn raw data into meaningful business insights, build an interactive dashboard, and communicate findings through clear data storytelling. The hackathon also helped me improve my **problem-solving, analytical thinking, and data visualisation skills**.
+
+Overall, it was a valuable experience that strengthened my confidence in working on **end-to-end data analysis projects**.
