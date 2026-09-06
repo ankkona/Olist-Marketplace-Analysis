@@ -11,10 +11,16 @@ The analysis focuses on understanding **where the business is growing, where cus
 
 ## Tech Stack
 
-* **Python** – Data cleaning, feature engineering, and exploratory data analysis (EDA)
+* **Python** – Data cleaning, feature engineering and exploratory data analysis (EDA)
 * **Pandas & NumPy** – Data manipulation and feature engineering
 * **Matplotlib & Seaborn** – Exploratory data visualisation
 * **Power BI** – Interactive dashboard development and business insights
+
+## Links
+
+- **Dataset:** [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Python Notebook:** [Google Colab](https://colab.research.google.com/drive/12erngs2H0GMYLuhQJNGNNLCSVENvMujY#scrollTo=7645573e)
+- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/)
 
 ## 🔄 Project Workflow
 
@@ -53,7 +59,7 @@ flowchart LR
 - **Repeat customers generate higher revenue per customer** than one-time customers, making customer retention an important growth opportunity.
 
 
-## 💡 Key Recommendations
+## Key Recommendations
 
 - **Reduce late deliveries**, especially in regions and operational areas where delivery performance is weaker.
 
