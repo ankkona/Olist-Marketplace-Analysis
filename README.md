@@ -20,7 +20,7 @@ The analysis focuses on understanding **where the business is growing, where cus
 
 - **Dataset:** [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Python Notebook:** [Google Colab](https://colab.research.google.com/drive/12erngs2H0GMYLuhQJNGNNLCSVENvMujY#scrollTo=7645573e)
-- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/)
+- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/groups/me/reports/b133324c-81ea-4ecb-b7fc-4cf7f5723fb4/d9853e7c2c0336f91555?experience=power-bi)
 
 ## 🔄 Project Workflow
 
