@@ -1,10 +1,11 @@
+
 # 🛒 Olist E-commerce Data Analysis
 
 ## Objective
 
-This project analyzes **Olist Brazilian e-commerce data** to identify patterns in sales growth, product categories, customer geography, delivery performance, payment behaviour, customer satisfaction, and repeat purchasing.
+This project analyzes **Olist Brazilian e-commerce data** to identify patterns in sales, revenue, product categories, customer geography, delivery performance, payment behaviour, customer satisfaction, and repeat purchasing.
 
-The project was completed as part of a **Data Analysis Hackathon by Gradient Learning**, with the objective of transforming raw e-commerce data into meaningful business insights and actionable recommendations.
+This project was completed as part of a **Data Analysis Hackathon by Gradient Learning**, with the objective of transforming raw e-commerce data into meaningful business insights and actionable recommendations.
 
 The analysis focuses on understanding **where the business is growing, where customer experience is facing friction, and which factors can be improved to support long-term growth**.
 
@@ -14,13 +15,6 @@ The analysis focuses on understanding **where the business is growing, where cus
 * **Pandas & NumPy** – Data manipulation and feature engineering
 * **Matplotlib & Seaborn** – Exploratory data visualisation
 * **Power BI** – Interactive dashboard development and business insights
-
-## Links
-
-- **Hackathon:** Gradient Learning Data Analysis Hackathon
-- **Dataset:** [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- **Python Notebook:** View Analysis Notebook
-- **Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/)
 
 ## 🔄 Project Workflow
 
@@ -38,6 +32,7 @@ flowchart LR
     D --> D1[📈 Interactive Dashboard]
     D --> D2[🔍 Business Analysis]
     D --> D3[💡 Key Insights & Recommendations]
+```
 
 ## Key Insights
 
